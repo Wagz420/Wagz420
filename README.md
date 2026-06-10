@@ -49,8 +49,8 @@
       <br/>
       <!-- Sir, replace the '#' below with the actual links to your social profiles -->
       <a href="#"><img src="https://img.shields.io/badge/X-black?style=flat&logo=x&logoColor=E83B3B" alt="X"/></a>
-      <a href="[#](https://www.facebook.com/Wagz.Daddy.24)"><img src="https://img.shields.io/badge/Facebook-black?style=flat&logo=facebook&logoColor=E83B3B" alt="Facebook"/></a>
-      <a href="[#](https://www.youtube.com/@WagzCreations)"><img src="https://img.shields.io/badge/YouTube-black?style=flat&logo=youtube&logoColor=E83B3B" alt="YouTube"/></a>
+      <a href="https://www.facebook.com/Wagz.Daddy.24"><img src="https://img.shields.io/badge/Facebook-black?style=flat&logo=facebook&logoColor=E83B3B" alt="Facebook"/></a>
+      <a href="https://www.youtube.com/@WagzCreations"><img src="https://img.shields.io/badge/YouTube-black?style=flat&logo=youtube&logoColor=E83B3B" alt="YouTube"/></a>
     </td>
     <td width="33%" valign="top" align="center" style="border: 2px solid #E83B3B; border-radius: 10px;">
       <h3 style="color:#E83B3B;">🌌 PHILOSOPHY & HISTORY</h3>
