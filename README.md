@@ -1,16 +1,64 @@
-## Hi there 👋
+<div align="center">
+  <!-- Sir, you will need to upload your custom banner image to your repository and replace the link below with your actual image URL -->
+  <img src="YOUR_BANNER_IMAGE_URL.png" alt="Wagz Banner" width="100%" />
 
-<!--
-**Wagz420/Wagz420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>MATTHEW WAGNER / <span style="color:#E83B3B;">WAGZ</span></h1>
+  <p><b>Digital Strategist, Hip-Hop Artist, Cybersecurity Student</b></p>
+</div>
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table align="center" width="100%">
+  <tr>
+    <td width="33%" valign="top" align="center" style="border: 2px solid #E83B3B; border-radius: 10px;">
+      <h3 style="color:#E83B3B;">⚙️ DIGITAL MARKETING & ENTREPRENEURSHIP</h3>
+      <ul align="left">
+        <li>I’m currently working on building brand strategies for clients</li>
+        <li>I’m currently learning landing page optimization insights</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top" align="center" style="border: 2px solid #E83B3B; border-radius: 10px;">
+      <h3 style="color:#E83B3B;">🎵 HIP-HOP ARTIST & SONGWRITER</h3>
+      <ul align="left">
+        <li>I’m looking to collaborate on music projects</li>
+        <li><b>Fun fact:</b> I released a hip-hop album called 'Ride or Die' on Feb 10, 2026</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top" align="center" style="border: 2px solid #E83B3B; border-radius: 10px;">
+      <h3 style="color:#E83B3B;">💻 PHILOSOPHY & TECHNOLOGY</h3>
+      <ul align="left">
+        <li>I’m currently working on building community projects</li>
+        <li>I’m currently learning about networking and technology optimization</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top" align="center" style="border: 2px solid #E83B3B; border-radius: 10px;">
+      <h3 style="color:#E83B3B;">🛡️ CYBERSECURITY & TECHNOLOGY</h3>
+      <ul align="left">
+        <li>I’m currently working on Cybersecurity degree coursework</li>
+        <li>Ask me about technology optimization</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top" align="center" style="border: 2px solid #E83B3B; border-radius: 10px;">
+      <h3 style="color:#E83B3B;">📬 Get in Touch</h3>
+      <ul align="left" style="list-style-type:none;">
+        <li>📞 <span style="color:#E83B3B;">(747)367-1710</span></li>
+        <li>✉️ <span style="color:#E83B3B;">wagzcreations.digitalmarketing@gmail.com</span></li>
+      </ul>
+      <br/>
+      <!-- Sir, replace the '#' below with the actual links to your social profiles -->
+      <a href="#"><img src="https://img.shields.io/badge/X-black?style=flat&logo=x&logoColor=E83B3B" alt="X"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Facebook-black?style=flat&logo=facebook&logoColor=E83B3B" alt="Facebook"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/YouTube-black?style=flat&logo=youtube&logoColor=E83B3B" alt="YouTube"/></a>
+    </td>
+    <td width="33%" valign="top" align="center" style="border: 2px solid #E83B3B; border-radius: 10px;">
+      <h3 style="color:#E83B3B;">🌌 PHILOSOPHY & HISTORY</h3>
+      <ul align="left">
+        <li>Ask me about ancient history and simulation theory</li>
+      </ul>
+      <p style="color:#E83B3B;">📖 🛸 ☥</p>
+    </td>
+  </tr>
+</table>
+</table>
